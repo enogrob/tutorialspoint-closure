@@ -1,5 +1,5 @@
 ```
-Roberto Nogueira  
+Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
@@ -16,9 +16,9 @@ Learn everything you need to about Closure.
 ## Topics
 ```
 Clojure Tutorial
-[ ] Home
-[ ] Overview
-[ ] Environment
+[x] Home
+[x] Overview
+[x] Environment
 [ ] Basic Syntax
 [ ] REPL
 [ ] Data Types
